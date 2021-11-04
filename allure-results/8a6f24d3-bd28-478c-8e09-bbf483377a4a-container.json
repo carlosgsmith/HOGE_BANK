@@ -1,0 +1,1 @@
+{"uuid":"8a6f24d3-bd28-478c-8e09-bbf483377a4a","name":"HOGE_BANKTest.setUp","children":["5d092854-025a-4ea6-af1b-d75bcd7003f8"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1635964473428,"stop":1635964475147}],"afters":[],"links":[],"start":1635964473428,"stop":1635964475147}
