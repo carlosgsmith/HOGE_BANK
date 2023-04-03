@@ -8,7 +8,6 @@ import java.util.concurrent.TimeUnit;
 import static org.testng.Assert.*;
 
 
-
 public class HOGE_BANKTest {
 
     public WebDriver HB_driver;
